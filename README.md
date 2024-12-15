@@ -93,8 +93,6 @@ print(f"Contract Info: {info}")
 1. **Software and Tools**
    - [Remix IDE](https://remix.ethereum.org/) for Solidity contract development.
    - [Python 3.x](https://www.python.org/) for running the interaction script.
-   - [Node.js](https://nodejs.org/) and npm (optional, for web-based dApps).
-   - Infura account for blockchain connectivity.
 
 2. **Blockchain Network**
    - Avalanche Testnet.
