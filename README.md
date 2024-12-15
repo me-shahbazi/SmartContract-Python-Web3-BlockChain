@@ -142,6 +142,7 @@ This repository is a concise example for developers interested in exploring bloc
 - [Web3.py Documentation](https://web3py.readthedocs.io/en/stable/)
 - [Remix IDE](https://remix.ethereum.org/)
 - [Infura Platform](https://infura.io/)
+- [Introduction to Blockchain and Web3 | Blockchain Beginner Bootcamp by Chainlink](https://www.youtube.com/live/V6Yqr7prI2I?si=FFnsI4kdDI_XuH7A)
 
 ---
 
